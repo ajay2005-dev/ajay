@@ -1,4 +1,4 @@
-# Hi, I'm Ajay 👋  
+# Hi, I'm Ajay karuppasamy j👋  
 
 🎓 Electronics & Communication Engineering @ R.M.K Engineering College  
 💻 Aspiring Full‑Stack Developer | Web Enthusiast | DSA Learner  
@@ -8,15 +8,13 @@
 
 ## 🚀 Skills
 - **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java (Intermediate), SQL (Beginner/Intermediate)  
-- **DSA:** Sliding Window, Two Pointers, Hash Maps  
+- **Backend:** Java (Intermediate), SQL (Beginner/Intermediate)    
 - **Other:** Git, GitHub, Responsive UI Design  
 
 ---
 
 ## 📌 Projects
-- **Portfolio Website** – Showcasing my skills and projects  
-- **UI Components Library** – Reusable frontend components  
+- **Portfolio Website** – Showcasing my skills and projects   
 - **DSA Practice Repo** – Problem‑solving with step‑by‑step explanations  
 
 *(Pin these repos on your profile so recruiters see them first!)*  
